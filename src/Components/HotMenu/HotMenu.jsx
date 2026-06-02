@@ -1,5 +1,5 @@
 import React from 'react'
-import jollof from "../../assets/jollof_rice.png"
+import jollof from "../../assets/Jollof_rice.png"
 import egusi  from "../../assets/egusi.png"
 import ayamase from "../../assets/ayamase.png"
 import asun from "../../assets/asun.png"

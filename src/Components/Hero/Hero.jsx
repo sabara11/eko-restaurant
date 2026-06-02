@@ -1,8 +1,8 @@
 import React from 'react'
-import Food from "../../assets/jollof_rice.png"
-import Spoon from "../../assets/spoon.png"
+import Food from "../../assets/Jollof_rice.png"
+import Spoon from "../../assets/Spoon.png"
 import Fork from "../../assets/fork.png"
-import Knife from "../../assets/knife.png"
+import Knife from "../../assets/Knife.png"
 import Crown from "../../assets/crown.png"
 import { IoCartOutline } from 'react-icons/io5'
 import { motion } from 'framer-motion'
